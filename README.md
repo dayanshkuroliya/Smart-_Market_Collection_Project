@@ -1,10 +1,10 @@
-# 🏬 Smart Market – Charge Collection Management System
+#  Smart Market – Charge Collection Management System
 
 A complete full-stack web application for daily market charge collection management. Built for collectors who visit Haat owners (vendors/shopkeepers) every day and need to track who paid, who is pending, and who refused.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 | Layer    | Technology                              |
 |----------|-----------------------------------------|
@@ -15,7 +15,7 @@ A complete full-stack web application for daily market charge collection managem
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 smart-market/
@@ -107,7 +107,7 @@ Frontend starts at **http://localhost:3000**
 
 ---
 
-## 🔐 Default Login
+## Default Login
 
 | Field    | Value      |
 |----------|------------|
@@ -136,23 +136,23 @@ Frontend starts at **http://localhost:3000**
 
 ---
 
-## ✨ Features
+## Features
 
-- ✅ JWT Authentication (login/logout)
-- ✅ Vendor CRUD (add, edit, delete, search)
-- ✅ Daily collection with Paid / Pending / Not Paid status
-- ✅ Dashboard with live stats
-- ✅ Pending payments with overdue highlighting
-- ✅ Per-vendor payment history with date filter
-- ✅ Analytics charts (bar, line, doughnut)
-- ✅ Export to CSV and Excel
-- ✅ Dark mode support
-- ✅ Responsive mobile layout
-- ✅ Sample data auto-seeded on first run
+- JWT Authentication (login/logout)
+-  Vendor CRUD (add, edit, delete, search)
+-  Daily collection with Paid / Pending / Not Paid status
+-  Dashboard with live stats
+-  Pending payments with overdue highlighting
+-  Per-vendor payment history with date filter
+-  Analytics charts (bar, line, doughnut)
+-  Export to CSV and Excel
+-  Dark mode support
+-  Responsive mobile layout
+-  Sample data auto-seeded on first run
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - WhatsApp reminder integration (API layer prepared)
 - Multi-user / multi-market support
